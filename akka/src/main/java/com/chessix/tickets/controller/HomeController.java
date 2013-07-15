@@ -1,4 +1,4 @@
-package com.chessix.tickets.ap.controller;
+package com.chessix.tickets.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
